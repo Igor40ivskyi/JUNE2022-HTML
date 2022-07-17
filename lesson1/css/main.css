@@ -1,0 +1,33 @@
+
+
+h2{
+    background: darkcyan;
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    color: blue;
+
+
+}
+p{
+    color: red;
+}
+.family{
+    color: darkcyan;
+}
+.fam{
+    display: block;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+.Homeri{
+    display: block;
+    margin: 0 auto;
+}
+img{
+    width: 200px;
+}

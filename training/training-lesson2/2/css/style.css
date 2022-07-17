@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+.container{
+    height: 900px;
+    width: 600px;
+    /*border: 2px solid darkblue;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.brick1{
+    width: 550px;
+    height: 250px;
+    background: darkblue;
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial;
+}
+.brick2{
+    width: 550px;
+    height: 250px;
+    /*background: darkorange;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Arial;
+}
+.brick3{
+    width: 550px;
+    height: 300px;
+    background: darkblue;
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial;
+}
+.part1{
+    width: 165px;
+    height: 200px;
+    background: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
